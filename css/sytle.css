@@ -1,0 +1,11 @@
+.icon-block {
+    padding: 0 15px;
+  }
+  .icon-block .material-icons {
+      font-size: inherit;
+  }
+  body{
+    text-align: center;
+    justify-content: center;
+    background-color:#1469e9d8;
+  }
